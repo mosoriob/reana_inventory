@@ -1,6 +1,7 @@
 [
     {
         "url": "https://github.com/reanahub/reana-demo-worldpopulation",
+        "rawDirectory": "https://raw.githubusercontent.com/reanahub/reana-demo-worldpopulation/master/",
         "specification": "reana.yaml",
         "name": "reana-demo-world-population",
         "id": "77327ea4-1d81-11ed-861d-0242ac120002"
