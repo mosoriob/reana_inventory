@@ -1,6 +1,7 @@
 [
     {
         "url": "https://github.com/reanahub/reana-demo-worldpopulation",
+        "specification": "reana.yaml",
         "name": "reana demo world population"
     }
 ]
