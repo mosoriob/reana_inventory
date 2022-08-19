@@ -1,9 +1,9 @@
 [
     {
-        "url": "https://github.com/reanahub/reana-demo-worldpopulation",
-        "rawDirectory": "https://raw.githubusercontent.com/reanahub/reana-demo-worldpopulation/master/",
+        "url": "https://github.com/mosoriob/bikes_rent",
+        "rawDirectory": "https://raw.githubusercontent.com/mosoriob/bikes_rent/master/",
         "specification": "reana.yaml",
-        "name": "reana-demo-world-population",
+        "name": "bikes-rental",
         "id": "77327ea4-1d81-11ed-861d-0242ac120002"
     }
 ]
